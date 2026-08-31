@@ -1,6 +1,5 @@
 const CACHE_NAME = 'mahjong-calc-v4';
 
-// Dynamicznie generowana lista grafiki kamieni (-1 oraz 0-36, wersje zwykłe i _small)
 const TILE_ASSETS = [
   './tiles/-1.png',
   './tiles/-1_small.png',
