@@ -34,3 +34,12 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Attributions & Licenses
+
+- **Application Icon (`public/img/icons/icon.png`)**: 
+  - Icon: *Mahjong Red Dragon Icon* from Noto Emoji Activities Icons
+  - Author: Google
+  - Source: [IconArchive - Google Noto Emoji](https://www.iconarchive.com/show/noto-emoji-activities-icons-by-google/52779-mahjong-red-dragon-icon.html)
+  - License: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+

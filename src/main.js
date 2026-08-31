@@ -7,6 +7,7 @@ import VueClipboard from "vue-clipboard2"
 import VueMeta from "vue-meta"
 import VueSocialSharing from "vue-social-sharing"
 import Vue from "vue"
+import "./registerServiceWorker"
 
 Vue.use(BootstrapVue)
 Vue.use(BootstrapVueIcons)
