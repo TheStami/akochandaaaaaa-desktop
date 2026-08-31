@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/TAURI-akochandaaaaaa/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/akochandaaaaaa-desktop/" : "/",
   outputDir: "dist/",
   pwa: {
     name: 'Mahjong Calculator',
